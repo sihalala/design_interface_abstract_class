@@ -1,0 +1,1 @@
+# design_interface_abstract_class
